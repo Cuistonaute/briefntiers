@@ -10,4 +10,4 @@
 
 ## Schema 3 tiers
 
-![Schema 3 tiers]( ./img/diagramme3tiers.png "Schema 3 tiers")
+![Schema 3 tiers]( ./img/diagram3tiers.png "Schema 3 tiers")
